@@ -3,7 +3,7 @@
 #### Clone the Repository:
   
 ###### Bash
-git clone [https://github.com/0sohamjoshi/restaurant-management-system.git](https://github.com/0sohamjoshi/restaurant-management-system.git)
+git clone [https://github.com/so-0914/restaurant-management-system.git](https://github.com/so-0914/restaurant-management-system.git)
 cd restaurant-management-system
 
 #### Open in IntelliJ IDEA:
